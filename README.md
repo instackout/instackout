@@ -1,8 +1,11 @@
 InStackOut - IT Solutions
+
 From concept to reality, we bring your ideas to life
+
 Creating software that puts the user first, driving engagement, satisfaction, and success for businesses of all sizes
 
 Introduction
+
 Our software development company specializes in creating high-quality, custom software solutions for businesses of all sizes. We have a team of experienced software developers who are dedicated to delivering top-notch products that meet our clients' unique needs.
 
 Services
