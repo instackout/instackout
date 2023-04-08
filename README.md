@@ -1,4 +1,4 @@
-#InStackOut - IT Solutions 
+#InStackOut Technologies 
 
 From concept to reality, we bring your ideas to life
 
