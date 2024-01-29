@@ -1,4 +1,4 @@
-#InStackOut Technologies 
+#Instackout Technologies 
 
 From concept to reality, we bring your ideas to life
 
